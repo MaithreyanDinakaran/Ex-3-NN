@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME:Maithreyan D</H3>
-<H3>ENTER YOUR REGISTER NO:212222220021</H3>
+Maithreyan D</H3>
+212222220021</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE:18-04-2023</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
