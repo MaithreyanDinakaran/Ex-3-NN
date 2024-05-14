@@ -1,6 +1,6 @@
-Maithreyan D</H3>
+<h3>Name:Maithreyan D</h3
 
-212222220021</H3>
+<h3>Reg. No:212222220021 </h3>
 <H3>EX. NO.3</H3>
 <H3>DATE:18-04-2023</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
